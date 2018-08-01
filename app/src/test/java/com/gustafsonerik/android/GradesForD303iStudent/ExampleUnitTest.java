@@ -1,4 +1,4 @@
-package com.example.android.simplegradeswithjsoup;
+package com.gustafsonerik.android.GradesForD303iStudent;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.android.simplegradeswithjsoup;
+package com.gustafsonerik.android.GradesForD303iStudent;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
